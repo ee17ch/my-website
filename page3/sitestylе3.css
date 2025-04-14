@@ -1,0 +1,296 @@
+
+<!--
+
+
+ .fieldtext {  
+ 		font-family: Verdana, Arial, Helvetica, sans-serif;
+		background: #FFFFFF;
+ 		font-size: 10px;
+ 		font-style: normal;
+ 		line-height: 12px;
+ 		font-variant: normal;
+ 		text-transform: none;
+ 		color: #000000;
+ 		text-decoration: none
+ 		}
+
+ .linkhilite {  
+ 		font-family: Verdana, Arial, Helvetica, sans-serif;
+		box-height: 10px;
+		background: #CC0000;
+ 		padding: 1px;
+ 		font-weight: normal;
+ 		font-size: 8px;
+ 		font-style: normal;
+ 		line-height: 8px;
+ 		font-variant: normal;
+ 		text-transform: none;
+ 		color: #F5F3EB;
+ 		text-decoration: none
+ 		}
+ 		
+ .menu {  
+ 		font-family: Verdana, Arial, Helvetica, sans-serif;
+		background: #FFFFFF;
+ 		font-size: 10px;
+ 		font-style: normal;
+ 		line-height: 12px;
+ 		font-weight: bold;
+ 		font-variant: normal;
+ 		text-transform: none;
+ 		color: #000000;
+ 		text-decoration: none
+ 		}
+ 
+ .tophead {  
+ 		font-family:  Arial, Verdana, Helvetica, sans-serif;
+ 		font-size: 50px;
+ 		font-style: italic;
+ 		line-height: 12px;
+ 		font-weight: bold;
+ 		font-variant: normal;
+ 		text-transform: none;
+ 		color: #000000;
+ 		text-decoration: none
+ 		}
+
+
+
+ 
+ .photolibmugid {  
+ 		font-family: Georgia, "Minion Web", Palatino, "Times New Roman", Times, serif;
+ 		font-size: 11px;
+ 		font-style: normal;
+ 		line-height: 13px;
+ 		font-weight: bold;
+ 		font-variant: normal;
+ 		text-transform: none;
+ 		color: #996633;
+ 		text-decoration: none
+ 		}
+ 		
+ .photolibsubtext {  
+ 		font-family: Verdana, Arial, Helvetica, sans-serif;
+ 		font-size: 9px;
+ 		font-style: normal;
+ 		line-height: 12px;
+ 		font-weight: normal;
+ 		font-variant: normal;
+ 		text-transform: none;
+ 		color: #666666
+ 		}
+ 		
+ .sserifhead {
+ 		font-family: Verdana, Arial, Helvetica, sans-serif;
+ 		font-size: 18px;
+ 		font-style: normal;
+ 		line-height: 24px;
+ 		font-weight: bold;
+ 		font-variant: normal;
+ 		text-transform: none;
+ 		color: #CC0000;
+ 		text-decoration: none
+ 		}
+ 		
+ .sserifsub {  
+ 		font-family: Verdana, Arial, Helvetica, sans-serif;
+ 		font-size: 10px;
+ 		font-style: normal;
+ 		line-height: 12px;
+ 		font-weight: normal;
+ 		font-variant: normal;
+ 		text-transform: uppercase;
+ 		color: #666666
+ 		}
+ 		
+ .sserifcaption {  
+ 		font-family: Verdana, Arial, Helvetica, sans-serif;
+ 		font-size: 8px;
+ 		font-style: normal;
+ 		line-height: 10px;
+ 		font-weight: normal;
+ 		font-variant: normal;
+ 		text-transform: none;
+ 		color: #663300
+ 		}
+ 		
+ .sserifstoryhead {  
+ 		font-family: Verdana, Arial, Helvetica, sans-serif;
+ 		font-size: 14px;
+ 		font-style: normal;
+ 		line-height: 18px;
+ 		font-weight: bold;
+ 		font-variant: normal;
+ 		text-transform: none;
+ 		color: #996633;
+ 		text-decoration: none
+ 		}
+ 		
+ .serifstoryhead {  
+ 		font-family: Georgia, "Minion Web", Palatino, "Times New Roman", Times, serif;
+ 		font-size: 16px;
+ 		font-style: normal;
+ 		line-height: 18px;
+ 		font-weight: bold;
+ 		font-variant: normal;
+	 	letter-spacing: -1px;
+ 	    text-transform: none;
+ 		color: #996633;
+ 		text-decoration: none
+ 		}
+ 		
+ .seriftext {  
+ 		font-family: Georgia, "Minion Web", Palatino, "Times New Roman", Times, serif;
+ 		font-size: 11px;
+ 		font-style: normal;
+ 		line-height: 13px;
+ 		font-weight: normal;
+ 		font-variant: normal;
+ 		text-transform: none;
+ 		color: #000000;
+ 		text-decoration: none
+ 		}
+ 		
+ .sseriftext {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 14px;
+        line-height: 12px;
+        font-weight: normal;
+        font-style: normal;
+        color: #000000;
+        }
+
+ .sidelnks {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 13px;
+        line-height: 18px;
+        font-weight: bold;
+        font-style: normal;
+        color: #F5EBD9;
+        }
+	A.sidelnks:link { color: #F5EBD9; text-decoration: none }
+	A.sidelnks:visited { color: #CCCCCC; text-decoration: none }
+	A.sidelnks:hover { color: #DDCAA2; text-decoration: underline }
+	A.sidelnks:active { color: #660000; text-decoration: none }
+ 		
+ .sidelnkssmall {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 10px;
+        line-height: 12px;
+        font-weight: normal;
+        font-style: normal;
+        color: #F5EBD9;
+        }
+	A.sidelnkssmall:link { color: #F5EBD9; text-decoration: none }
+	A.sidelnkssmall:visited { color: #CCCCCC; text-decoration: none }
+	A.sidelnkssmall:hover { color: #DDCAA2; text-decoration: underline }
+	A.sidelnkssmall:active { color: #660000; text-decoration: none }
+ 		
+ .youarehere {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 10px;
+        line-height: 12px;
+        font-weight: bold;
+        font-style: normal;
+        color: #CC0000;
+        }
+
+ .breadcrumbs {
+        font-family: Georgia, Times, Times New Roman, sans-serif;
+        font-size: 12px;
+        line-height: 12px;
+        font-weight: normal;
+        font-style: normal;
+        color: #660000;
+        }
+	A.breadcrumbs:link { color: #CC0000; text-decoration: none }
+	A.breadcrumbs:visited { color: #CCCCCC; text-decoration: none }
+	A.breadcrumbs:hover { color: #CC0000; text-decoration: underline }
+	A.breadcrumbs:active { color: #CCCCCC; text-decoration: none }
+
+ .l2tabsmajor {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        line-height: 18px;
+        font-weight: bold;
+        font-style: normal;
+        color: #F5EBD9;
+        }
+	A.l2tabsmajor:link { color: #F5EBD9; text-decoration: none }
+	A.l2tabsmajor:visited { color: #CCCCCC; text-decoration: none }
+	A.l2tabsmajor:hover { color: #DDCAA2; text-decoration: underline }
+	A.l2tabsmajor:active { color: #660000; text-decoration: none }
+
+ .l2tabsminor {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 10px;
+        line-height: 12px;
+        font-weight: normal;
+        font-style: normal;
+        color: #F5EBD9;
+        }
+	A.l2tabsminor:link { color: #F5EBD9; text-decoration: none }
+	A.l2tabsminor:visited { color: #CCCCCC; text-decoration: none }
+	A.l2tabsminor:hover { color: #DDCAA2; text-decoration: underline }
+	A.l2tabsminor:active { color: #660000; text-decoration: none }
+
+ .linklist {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 11px;
+        line-height: 12px;
+        font-weight: normal;
+        font-style: normal;
+        color: #000000;
+        }
+
+ .linklistemphasis {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 14px;
+        line-height: 18px;
+        font-weight: normal;
+        font-style: normal;
+        color: #000000;
+        }
+
+ .footer {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 10px;
+        line-height: 10px;
+        font-weight: normal;
+        font-style: normal;
+        color: #660000;
+        }
+
+ .weathertempf {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 20px;
+        line-height: 20px;
+        font-weight: bold;
+        font-style: normal;
+        color: #FFFFFF;
+        }
+
+ .weatherconditions {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 9px;
+        line-height: 10px;
+        font-weight: normal;
+        font-style: normal;
+        color: #FFFFFF;
+        }
+
+ .weatherasof {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        font-size: 9px;
+        line-height: 10px;
+        font-weight: normal;
+        font-style: italic;
+        color: #CCCCCC;
+        }
+
+A:link    { color: #CC0000; text-decoration: none }
+A:visited { color: #666666; text-decoration: none }
+A:hover   { color: #CC0000; text-decoration: underline }
+A:active  { color: #660000; text-decoration: underline }
+
+-->
